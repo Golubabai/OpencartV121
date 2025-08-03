@@ -1,5 +1,5 @@
-package testCases;
 
+<<<<<<< HEAD
 public class TC_004_Search {
 
 	
@@ -32,3 +32,5 @@ public static void main(String args[])
     Fibonacci(N);
 }
 }
+=======
+>>>>>>> 8bb3b4d7398c9c4da7619f15dfec30436641611d
